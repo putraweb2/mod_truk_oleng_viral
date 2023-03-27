@@ -3,9 +3,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-7875992740610401/7295913730",
-      "main_ads_intertitial":"ca-app-pub-7875992740610401/3248857517",
-      "main_ads_natives":"ca-app-pub-7875992740610401/6773169553",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "main_ads_rewards":"ca-app-pub-7875992740610401/7838839211",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
@@ -32,7 +32,7 @@
          "id": "1",
          "category": "Truck",
          "title": "canter muhklas madura",
-         "image": "https://www.mediafire.com/file/yop5so7mo4vfyz0/1.+cantermuhklas_madura1.jpg",
+         "image": "https://monitorfile.xyz/1.%20cantermuhklas_madura1.jpg",
          "link_mods": "https://www.mediafire.com/file/lrsl2onug0rl7c7/1.+cantermuhklas_madura1.bussidmod/file",
          "link_livery": ""
       },
@@ -40,7 +40,7 @@
          "id": "2",
          "category": "Truck",
          "title": "canter bb",
-         "image": "https://www.mediafire.com/file/p2hdefcuce9im98/2.+canter+bb.png",
+         "image": "https://monitorfile.xyz/2.%20canter%20bb.png",
          "link_mods": "https://www.mediafire.com/file/p2e0arwixg931li/2.+canter+bb.bussidmod/file",
          "link_livery": ""
       },
@@ -56,7 +56,7 @@
          "id": "4",
          "category": "Truck",
          "title": "canter tronton",
-         "image": "https://www.mediafire.com/file/2djv8s1gfjrvt4k/canter+tronton.jpg",
+         "image": "https://monitorfile.xyz/canter%20tronton.jpg",
          "link_mods": "https://www.mediafire.com/file/1jd1p2ca68gj7lc/canter+tronton.bussidmod/file",
          "link_livery": ""
       },
@@ -64,7 +64,7 @@
          "id": "5",
          "category": "Truck",
          "title": "Canter Shilo",
-         "image": "https://www.mediafire.com/file/zhby1p4ln7ql5l1/S3_Shilo.jpg",
+         "image": "https://monitorfile.xyz/S3_Shilo.jpg",
          "link_mods": "https://www.mediafire.com/file/a0lb5rrbwn5cq6m/S3_Shilo.bussidmod/file",
          "link_livery": ""
       }
